@@ -115,7 +115,7 @@ Note: In the default setting, sequences with `AMPlify scores > 3.01` (i.e., `AMP
 
 ### Author
 
-Chenkai Li (cli@bcgsc.ca)
+Chenkai Li (chenkai.li@ubc.ca)
 
 ### Contact
 
